@@ -1,4 +1,3 @@
-
 # Het doel van de risicoverevening
 
 <!-- badges: start -->
@@ -6,6 +5,10 @@
 
 In een paar slides wordt het doel van de risicoverevening uitgelegd.
 Kort en bondig.
+
+# Help mee!
+
+Als je mee wilt helpen of een (tekst)suggestie hebt, dan wordt het erg gewaardeerd als je dat even laat weten. Dat kan [via deze link](https://github.com/risicoverevening/doel-risicoverevening/issues/new/choose).
 
 # Copyright
 
