@@ -215,5 +215,5 @@ class: inverse, center, middle
 # [pst.am/doel-risicoverevening](https://pst.am/doel-risicoverevening)
 
 .footnote[
-De inhoud van deze slides is beschikbaar onder de [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](https://creativecommons.org/licenses/by-sa/4.0/) licentie. De broncode voor het genereren van deze slides is beschikbaar op [GitHub](https://github.com/risicoverevening/doel-risicoverevening) onder de MIT licentie. Copyright (c) 2022 [Piet Stam](https://www.pietstam.nl).
+De inhoud van deze slides is beschikbaar onder de [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](https://creativecommons.org/licenses/by-sa/4.0/) licentie. De broncode voor het genereren van deze slides is beschikbaar op [GitHub](https://github.com/risicoverevening/doel-risicoverevening) onder de [MIT licentie](https://github.com/risicoverevening/doel-risicoverevening/blob/main/LICENSE). Copyright (c) 2022 [Piet Stam](https://www.pietstam.nl).
 ]
