@@ -1,0 +1,219 @@
+---
+title: 'Het doel van de risicoverevening'
+author: "Piet Stam"
+date: "`r format(Sys.Date(), '%d-%m-%Y')`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    chakra: "libs/remark-latest.min.js"
+    css: [default, metropolis, metropolis-fonts, "css/my-arrow.css", "css/my-style.css", "css/animate.css"]
+    seal: false
+    anchor_sections: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+```{r xaringan-animate-css, echo=FALSE}
+xaringanExtra::use_animate_css()
+```
+
+name: front
+
+class: inverse, middle, center
+
+# Het doel van de risicoverevening
+
+## .center[[Piet Stam](https://www.pietstam.nl)]
+
+---
+
+name: concurrentie
+
+# Zorgverzekeraars strijden om de gunst van verzekerden
+
+.arrow[]
+
+.pull-left-5[
+![Concurrentie](img/concurrentie.svg)
+## .my-style[Concurrentie]
+]
+
+???
+
+Zorgverzekeraars concurreren om de gunst van iedere verzekerde. De bedoeling hiervan is dat zorgverzekeraars goed inspelen op de voorkeuren van verzekerden en namens deze verzekerden de benodigde zorg organiseren. Verzekerden oefenen druk uit op zorgverzekeraars door te stemmen met de voeten.
+
+---
+
+name: effecten
+
+# Concurrentie leidt tot gewenste & ongewenste effecten
+
+.arrow[]
+
+.pull-left-5[
+![Concurrentie](img/concurrentie.svg)
+## .my-style[Concurrentie]
+]
+
+.pull-right-5[
+![Effecten](img/effecten.svg)
+## Effecten
+]
+
+???
+
+Het gewenste effect van de concurrentiestrijd om de verzekerden is dat dit ten goede komt aan de toegang, kwaliteit en betaalbaarheid van de zorg. Echter, zonder aanvullende maatregelen leidt concurrentie ook tot ongewenste effecten. Bijvoorbeeld, de premie van de polis voor een ongezonde verzekerde zal hoger uitpakken dan diezelfde polis voor een gezonde verzkerde.
+
+---
+
+name: regulering
+
+# De overheid wil de ongewenste effecten voorkomen
+
+.arrow[]
+
+.pull-left-5[
+![Concurrentie](img/concurrentie.svg)
+## .my-style[Concurrentie]
+]
+
+.pull-left-middle-5.animated.bounce[
+![Regulering](img/regulering.svg)
+## .my-style[Regulering]
+]
+
+.pull-right-5[
+![Effecten](img/effecten.svg)
+## Effecten
+]
+
+???
+
+De overheid wil de premie van de basisverzekering voor iedere Nederlander betaalbaar houden, of die nou gezond is of ongezond. Om dat af te dwingen heeft de overheid daarom de zorgverzekeringsmarkt gereguleerd: een verzekeraar mag geen premiedifferentiatie, polisdifferantiatie en accpetatiebeleid toepassen.
+
+---
+
+name: prikkels
+
+# Door regulering ontstaan echter ongewenste prikkels
+
+.arrow[]
+
+.pull-left-5[
+![Concurrentie](img/concurrentie.svg)
+## .my-style[Concurrentie]
+]
+
+.pull-left-middle-5[
+![Regulering](img/regulering.svg)
+## .my-style[Regulering]
+]
+
+.pull-middle-5.animated.tada[
+![Prikkels](img/prikkels.svg)
+## .my-style[Prikkels]
+]
+
+.pull-right-5[
+![Effecten](img/effecten.svg)
+## Effecten
+]
+
+???
+
+Door de regulering ontstaan echter ongewenste financiële prikkels. Immers, een verzekeraar die wettelijk gezien één en dezelfde premie aan al haar verzekerden moet vragen, ziet in haar administratie dat een gezonde verzekerde (voorspelbaar) winst oplevert en de andere verzekerde (voorspelbaar) verlies.
+
+---
+
+name: gedrag
+
+# Deze prikkels kunnen tot ongewenst gedrag leiden
+
+.arrow[]
+
+.pull-left-5[
+![Concurrentie](img/concurrentie.svg)
+## .my-style[Concurrentie]
+]
+
+.pull-left-middle-5[
+![Regulering](img/regulering.svg)
+## .my-style[Regulering]
+]
+
+.pull-middle-5[
+![Prikkels](img/prikkels.svg)
+## .my-style[Prikkels]
+]
+
+.pull-right-middle-5.animated.heartBeat[
+![Gedrag](img/gedrag.svg)
+## .my-style[Gedrag]
+]
+
+.pull-right-5[
+![Effecten](img/effecten.svg)
+## Effecten
+]
+
+???
+
+Deze financiele prikkels kunnen tot ongewenst gedrag leiden, zowel vanuit de kant van zorgverzekeraars (risicoselectie) als van de kant van verzekerden (zelfselectie). Dit ongewenste gedrag kan leiden tot negatieve effecten op de betaalbaarheid, toegang en kwaliteit van zorg.
+
+---
+
+name: risicoverevening
+
+# Risicoverevening maakt ongewenst gedrag onrendabel
+
+.arrow[]
+
+.pull-left-5[
+![Concurrentie](img/concurrentie.svg)
+## .my-style[Concurrentie]
+]
+
+.pull-left-middle-5[
+![Regulering](img/regulering.svg)
+## .my-style[Regulering ]
+ 
+##& **Risicoverevening**
+]
+
+.pull-middle-5[
+![Prikkels](img/prikkels.svg)
+## .my-style[Prikkels]
+]
+
+.pull-right-middle-5[
+![Gedrag](img/gedrag.svg)
+## .my-style[Gedrag]
+]
+
+.pull-right-5[
+![Effecten](img/effecten.svg)
+## Effecten
+]
+
+???
+
+Door risicoverevening ontvangt een zorgverzekeraar met relatief veel (voorspelbaar) ongezonde verzekerden een compensatie uit het landelijke Zorgverzekeringsfonds, terwijl zorgverzekeraars met relatief veel (voorspelbaar) gezonde verzekerden daaraan moet afdragen. Het doel van de risicoverevening is om de ongewenste financiële prikkels te verminderen, zodat ongewenst gedrag onvoldoende loont en he gedrag erop gericht wordt om de gewenste gedragseffecten te bereiken: goede betaalbaarheid, toegang en kwaliteit van zorg voor iedere verzekerde. 
+
+---
+class: inverse, center, middle
+
+# [pst.am/doel-risicoverevening](https://pst.am/doel-risicoverevening)
+
+.footnote[
+De inhoud van deze slides is beschikbaar onder de [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](https://creativecommons.org/licenses/by-sa/4.0/) licentie. De broncode voor het genereren van deze slides is beschikbaar op [GitHub](https://pst.am/doel-risicoverevening) onder de MIT licentie. Copyright (c) 2022 [Piet Stam](https://www.pietstam.nl).
+]
