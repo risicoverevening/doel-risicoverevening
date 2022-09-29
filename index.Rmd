@@ -105,7 +105,7 @@ De overheid wil de premie van de basisverzekering voor iedere Nederlander betaal
 
 name: prikkels
 
-# Door regulering ontstaan echter ongewenste prikkels
+# Door regulering ontstaan echter perverse prikkels
 
 .arrow[]
 
@@ -174,7 +174,7 @@ Deze financiele prikkels kunnen tot ongewenst gedrag leiden, zowel vanuit de kan
 
 name: risicoverevening
 
-# Risicoverevening stimuleert gewenst gedrag & effecten
+# Risicoverevening richt de prikkels op gewenst gedrag
 .arrow[]
 
 .pull-left-5[
