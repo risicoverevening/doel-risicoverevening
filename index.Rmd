@@ -174,8 +174,7 @@ Deze financiele prikkels kunnen tot ongewenst gedrag leiden, zowel vanuit de kan
 
 name: risicoverevening
 
-# Risicoverevening maakt ongewenst gedrag onrendabel
-
+# Risicoverevening stimuleert gewenst gedrag & effecten
 .arrow[]
 
 .pull-left-5[
