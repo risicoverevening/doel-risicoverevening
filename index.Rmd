@@ -99,7 +99,7 @@ name: regulering
 
 ???
 
-De overheid wil de premie van de basisverzekering voor iedere Nederlander betaalbaar houden, of die nou gezond is of ongezond. Om dat af te dwingen heeft de overheid daarom de zorgverzekeringsmarkt gereguleerd: een verzekeraar mag geen premiedifferentiatie, polisdifferantiatie en accpetatiebeleid toepassen.
+De overheid wil de premie van de basisverzekering voor iedere Nederlander betaalbaar houden, of die nou gezond is of ongezond. Om dat af te dwingen heeft de overheid daarom de zorgverzekeringsmarkt gereguleerd: een verzekeraar mag geen premiedifferentiatie, polisdifferentiatie en acceptatiebeleid toepassen.
 
 ---
 
@@ -206,7 +206,7 @@ name: risicoverevening
 
 ???
 
-Door risicoverevening ontvangt een zorgverzekeraar met relatief veel (voorspelbaar) ongezonde verzekerden een compensatie uit het landelijke Zorgverzekeringsfonds, terwijl zorgverzekeraars met relatief veel (voorspelbaar) gezonde verzekerden daaraan moet afdragen. Het doel van de risicoverevening is om de ongewenste financiële prikkels te verminderen, zodat ongewenst gedrag onvoldoende loont en he gedrag erop gericht wordt om de gewenste gedragseffecten te bereiken: goede betaalbaarheid, toegang en kwaliteit van zorg voor iedere verzekerde. 
+Door risicoverevening ontvangt een zorgverzekeraar met relatief veel (voorspelbaar) ongezonde verzekerden een compensatie uit het landelijke Zorgverzekeringsfonds, terwijl zorgverzekeraars met relatief veel (voorspelbaar) gezonde verzekerden daaraan moet afdragen. Het doel van de risicoverevening is om de ongewenste financiële prikkels te verminderen, zodat ongewenst gedrag onvoldoende loont. De prikkels wordt gericht op gewenst gedrag om de gewenste effecten te bereiken: goede betaalbaarheid, toegang en kwaliteit van zorg voor iedere verzekerde. 
 
 ---
 class: inverse, center, middle
